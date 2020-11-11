@@ -30,3 +30,10 @@ p {
 .card-header, h5 {
     font-size: 20px;
 }
+
+
+@media screen and (max-width: 575px) {
+    .ccard {
+        margin-top: 20px;
+    }
+}
