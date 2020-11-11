@@ -1,0 +1,32 @@
+body {
+    margin: 0 auto;
+    font-family: Roboto, sans-serif;
+    
+    
+}
+
+header {
+    background-color: #343A40;
+    
+}
+
+header a {
+    color: white;
+    font-size: 16px;
+}
+
+div .container {
+    margin-left: 49px;
+}
+
+div .card-body span {
+    font-weight: bold;
+}
+
+p {
+    font-size: 16px;
+}
+
+.card-header, h5 {
+    font-size: 20px;
+}
